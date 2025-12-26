@@ -8,9 +8,10 @@
       "developerName": "Callum Robertson",
       "version": "1.0",
       "versionDate": "2025-12-26",
-      "downloadURL": "PASTE_THE_GITHUB_RELEASE_LINK_HERE",
-      "localizedDescription": "This is my cool app.",
-      "iconURL": "https://example.com/icon.png",
+      "downloadURL": "https://github.com/CallumJRobertson/KUAltsource/releases/download/IOS/KeepUp.ipa",
+      "localizedDescription": "The real-time media tracker with AI updates & UK Cinema times.
+",
+      "iconURL": "https://github.com/CallumJRobertson/AppPage/blob/f3c2074de34093be117350d78b72972e436c972b/logo_clean.png",
       "tintColor": "000000",
       "size": 1234567
     }
