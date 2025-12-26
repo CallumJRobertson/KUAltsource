@@ -4,7 +4,7 @@
   "apps": [
     {
       "name": "KeepUp",
-      "bundleIdentifier": "KUIOS.KeepUp",
+      "bundleIdentifier": "KUIOSPublic.KeepUp",
       "developerName": "Callum Robertson",
       "version": "1.0",
       "versionDate": "2025-12-26",
